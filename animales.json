@@ -17,7 +17,7 @@
 	"Observacion": "Es un gatico cachorro que esta en la calle",
 	"Ubicacion": "Esta en belen  por los lados de  la udem",
 	"Rasgos": "Es pequeño  y el pelo lo tiene negro",
-	"Imagen": "http://static.consumer.es/www/imgs/2013/07/adoptar-gatos-cachorros-felinos-animales-mascotas-adopcion-acogida-art.jpg"
+	"Imagen": "https://img.freepik.com/foto-gratis/gato-rojo-o-blanco-i-estudio-blanco_155003-13189.jpg?w=2000"
 
 }, 
 {
@@ -27,7 +27,7 @@
 	"Observacion": "Esta denutrido",
 	"Ubicacion": "en un lote por la autipista medellin bogota",
 	"Rasgos": "Es blanco y  esta  muy delgado",
-	"Imagen": "http://www.pulso-digital.com/wp-content/uploads/2014/07/CABALLOS-ENFERMOS-PARA-SACRIFICAR.jpg"
+	"Imagen": "https://i.pinimg.com/originals/e9/fa/4b/e9fa4b15b9961e897d1e7901dd755598.jpg"
 }, 
 {
 	"id": 2,
@@ -36,7 +36,7 @@
 	"Observacion": "Tiene un ojo  herido",
 	"Ubicacion": "Esta en aranjuez por el parque",
 	"Rasgos": "Es un perro criollo y tiene un ojo spr herido",
-	"Imagen": "http://www.cuidadosdemascotas.com/wp-content/uploads/2015/06/perro_herido_cuidados_mascotas-300x225.jpg"
+	"Imagen": "https://static.nationalgeographic.es/files/styles/image_3200/public/01-stray-dogs-nationalgeographic_1927666.jpg?w=1600&h=900"
 },
   {
 	"id": 5,
@@ -45,7 +45,7 @@
 	"Observacion": "Es una gatica que acabo de dar a luz",
 	"Ubicacion": "Parque del poblado",
 	"Rasgos": "Es una gata blanca y tiene 6 gaticos cachorros",
-	"Imagen": "https://lh4.googleusercontent.com/-PKoAqrneSVg/TyPbkz9VqDI/AAAAAAAAAZg/QycSgXbOPUM/s800/Familia%2520de%2520gatos%2520Korat%2520%2528Gato%2520de%2520la%2520suerte%252C%2520Gat%2520Korat%252C%2520Si-sawaat%252C%2520Gat%2520de%2520la%2520Sort%252C%2520Korat-Katze%252C%2520Gatto%2520Korat%2529.jpg"
+	"Imagen": "https://pm1.narvii.com/6358/daaba1478f35365f249b00d0bf2a52312b9b1b85_hq.jpg"
 
 
 },
@@ -75,7 +75,7 @@
 	"Observacion": "Para adopcion",
 	"Ubicacion": "Esta en belen cerca a la udem",
 	"Rasgos": "Tiene el pelo cafe  , ademas tiene una patica mala",
-	"Imagen": "http://blog.feebbo.com/wp-content/uploads/2015/10/Im%C3%A1genes-para-WhatsApp-de-Animales-2.jpg"
+	"Imagen": "https://p1.pxfuel.com/preview/81/943/709/dog-homeless-sad-stray-dog.jpg"
 },
 {
 	"id": 9,
@@ -89,11 +89,11 @@
 {
 	"id": 10,
 	"Tipo": "Gato",
-	"Nombre": "NN",
+	"Nombre": "Bernard",
 	"Observacion": "Esta mal",
 	"Ubicacion": "lo vi por la canalizacion del estadio",
 	"Rasgos": "Tiene el pelo cafe  con blanco , ademas tiene una patica mala",
-	"Imagen": "http://mascotas-static.hola.com/gatos/files/2012/10/stray-cat-169113_1280.jpg"
+	"Imagen": "https://static.vecteezy.com/system/resources/previews/002/767/435/non_2x/beautiful-brown-stray-cat-portrait-on-the-street-photo.jpg"
 },
 {
 	"id":11,
@@ -107,11 +107,11 @@
 {
 	"id": 12,
 	"Tipo": "Perro",
-	"Nombre": "NN",
+	"Nombre": "Agustin",
 	"Observacion": "Lo dejaron en una caja , con  dos piernas rotas",
 	"Ubicacion": "Esta en la estacion del metro floresta",
 	"Rasgos": "Tiene el pelo cafe con negro y ya esta algo  viejito",
-	"Imagen": "http://cde.elcomercio.pe/66/ima/0/0/6/7/0/670997.jpg"
+	"Imagen": "https://www.cooperativasimbiosis.com/wp-content/uploads/2020/12/color-caoba.-feomelanina-400x400.jpg"
 },
 {
 	"id": 13,
@@ -120,7 +120,7 @@
 	"Observacion": "Parece que tiene dueño por que esta muy bien ",
 	"Ubicacion": "lo vi  por el exito de robledo",
 	"Rasgos": "Es un perro criollo de color cafe de raza media",
-	"Imagen": "http://img.informador.com.mx/biblioteca/imagen/370x277/852/851252.jpg"
+	"Imagen": "https://imagenes.heraldo.es/files/image_654_v1/uploads/imagenes/2018/10/22/_puppy10821411920_32dad81a.jpg"
 },
 {
 	"id": 14,
@@ -134,11 +134,11 @@
 {
 	"id": 15,
 	"Tipo": "Gato",
-	"Nombre": "sin nombre",
+	"Nombre": "Felix",
 	"Observacion": "Para dar en adopcion",
 	"Ubicacion": "Esta en belen cerca al parque",
 	"Rasgos": "Tiene apenas un mes de nacido",
-	"Imagen": "http://ecoosfera.com/wp-content/imagenes/0012-O-miado-dos-gatos-1-1024x480.jpg"
+	"Imagen": "https://t2.ea.ltmcdn.com/es/posts/9/6/0/1_singapur_el_gato_mas_pequeno_del_mundo_23069_0_600.jpg"
 },
 {
 	"id": 16,
